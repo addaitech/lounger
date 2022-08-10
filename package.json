@@ -1,0 +1,16 @@
+{
+  "name": "tangy-chicken-promote-b6l5d",
+  "productName": "tangy-chicken-promote-b6l5d",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Larry Bankovich",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "20.0.1"
+  }
+}
