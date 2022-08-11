@@ -1,7 +1,7 @@
 {
-  "name": "tangy-chicken-promote-b6l5d",
-  "productName": "tangy-chicken-promote-b6l5d",
-  "description": "My Electron application description",
+  "name": "lounger",
+  "productName": "lounger",
+  "description": "thelounge.chat frontend.",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
