@@ -11,7 +11,7 @@ function createWindow () {
     }
   })
 
-  win.loadURL('http://localhost:9000')
+  win.loadURL('http://localhost:9000') // set to your instance of thelounge
 
   ipcMain.handle('dark-mode:toggle', () => {
     if (nativeTheme.shouldUseDarkColors) {
